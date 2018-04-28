@@ -1,4 +1,5 @@
-/Users/carlos/IdeaProjects/demo/src/main/java/com/avanticaspring/demo/web/TeacherController.java
-/Users/carlos/IdeaProjects/demo/src/main/java/com/avanticaspring/demo/service/TeacherService.java
-/Users/carlos/IdeaProjects/demo/src/main/java/com/avanticaspring/demo/DemoApplication.java
-/Users/carlos/IdeaProjects/demo/src/main/java/com/avanticaspring/demo/domain/Teacher.java
+/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/service/TeacherService.java
+/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/web/TeacherController.java
+/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/domain/Teacher.java
+/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/config/SwaggerConfig.java
+/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/DemoApplication.java
