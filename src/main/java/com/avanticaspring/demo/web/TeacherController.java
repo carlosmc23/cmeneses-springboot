@@ -30,22 +30,25 @@ public class TeacherController {
     }
     //Delete teacher localhost:9090/teachers/2
     @RequestMapping(path = "/{id}", method = RequestMethod.DELETE)
-    public void deleteTeacher(@PathVariable int id){
+    public void deleteTeacher(@PathVariable String id) {
         System.out.println("the id teacher delete is: "+ id);
         teacherService.deleteTeacher(id);
+        //teacherService.deleteTeacher(id);
     }
     //delete teacher por el requestbody
     @RequestMapping(method = RequestMethod.DELETE)
     public void deleteTeacherBody(@RequestBody Teacher delTeacher){
         System.out.println("the name of teacher deleted is: "+delTeacher);
         // revisar teacherService.deleteTeacher(delTeacher);
-        teacherService.deleteTeacher((int)delTeacher.getId());
+        teacherService.deleteTeacher(delTeacher.getId());
+        //teacherService.deleteTeacher((int)delTeacher.getCi());
     }
 
     //get teacher by id
     @RequestMapping(path = "/{id}", method = RequestMethod.GET)
-    public Teacher getTeacherById(@PathVariable int id) {
+    public Teacher getTeacherById(@PathVariable String id) {
         System.out.println("the id teacher is: " + id);
         return teacherService.getTeacherById(id);
+        //return teacherService.getTeacherById(id);
     }
 }

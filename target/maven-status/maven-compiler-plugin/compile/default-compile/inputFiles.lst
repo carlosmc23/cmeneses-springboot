@@ -1,5 +1,10 @@
-/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/service/TeacherService.java
-/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/web/TeacherController.java
-/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/domain/Teacher.java
-/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/config/SwaggerConfig.java
-/Users/carlos/IdeaProjects/cmeneses-springboot/src/main/java/com/avanticaspring/demo/DemoApplication.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/service/TeacherService.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/web/StudentController.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/domain/Teacher.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/config/SwaggerConfig.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/domain/Student.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/service/StudentService.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/repository/StudentRepository.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/repository/TeacherRepository.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/DemoApplication.java
+/Users/carlos/IdeaProjects/Curso Spring Avantica /cmeneses-springboot/src/main/java/com/avanticaspring/demo/web/TeacherController.java

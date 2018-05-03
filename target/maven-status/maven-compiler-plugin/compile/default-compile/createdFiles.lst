@@ -1,5 +1,10 @@
 com/avanticaspring/demo/service/TeacherService.class
 com/avanticaspring/demo/DemoApplication.class
-com/avanticaspring/demo/config/SwaggerConfig.class
+com/avanticaspring/demo/repository/TeacherRepository.class
 com/avanticaspring/demo/web/TeacherController.class
 com/avanticaspring/demo/domain/Teacher.class
+com/avanticaspring/demo/service/StudentService.class
+com/avanticaspring/demo/domain/Student.class
+com/avanticaspring/demo/config/SwaggerConfig.class
+com/avanticaspring/demo/web/StudentController.class
+com/avanticaspring/demo/repository/StudentRepository.class

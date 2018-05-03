@@ -1,20 +1,36 @@
 package com.avanticaspring.demo.domain;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document
 public class Teacher {
-    private long id;
+
+    @Id
+    private String id;
+
+    private long ci;
     private String name;
 
-    public Teacher(long id, String name) {
+    public Teacher(String id, String name) {
         this.id = id;
         this.name = name;
     }
 
-    public long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(String id) {
         this.id = id;
+    }
+
+    public long getCi() {
+        return ci;
+    }
+
+    public void setCi(long ci) {
+        this.ci = ci;
     }
 
     public String getName() {
